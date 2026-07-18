@@ -1,0 +1,42 @@
+# Mod binaries and packaged third-party content
+/mods/*.jar
+/coremods/*.jar
+/resourcepacks/*.zip
+/shaderpacks/*.zip
+/texturepacks/*.zip
+
+# Worlds, player data, and local instance settings
+/saves/
+/options.txt
+/optionsof.txt
+/servers.dat
+/servers.dat_old
+/usercache.json
+/usernamecache.json
+/knownkeys.txt
+/screenshots/
+/schematics/
+/local/
+
+# Logs, reports, downloads, and generated caches
+/logs/
+/crash-reports/
+/downloads/
+/dynamic-data-pack-cache/
+/dynamic-resource-pack-cache/
+/server-resource-packs/
+/kubejs/logs/
+/kubejs/exported/
+/kubejs/config/web_server.json
+/configureddefaults/README.md
+/config/jei/world/
+
+# Temporary and editor files
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

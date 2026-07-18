@@ -1,0 +1,10 @@
+#.
+# If set to false the warning about missing tiers will not be displayed
+#
+# Default: true
+"Display Missing Warning" = true
+#.
+# If set to true the Tier of a block and tool will be shown in their tooltip
+#
+# Default: true
+"Tooltip Info" = true

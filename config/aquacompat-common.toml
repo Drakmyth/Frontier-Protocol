@@ -1,0 +1,20 @@
+#Master switch for Neptune's Feast output bonuses on cutting-board style recipes.
+neptuniumKnifeCuttingBoardBonus = true
+#If true, AquaCompat cutting-board recipes defer to non-AquaCompat recipes for the same input and are hidden from JEI when replaced.
+neptuniumKnifeCuttingBoardLessPriority = true
+#If true, Neptunium knife cutting-board recipes also multiply outputs for items in c:foods/cooked_fish.
+neptuniumKnifeCuttingBoardMultiplyCookedFish = false
+#Output multiplier applied to eligible fish slice items when using a Neptunium Fillet Knife.
+# Default: 1.25
+# Range: 1.0 ~ 64.0
+neptuniumKnifeCuttingBoardBonusMultiplier = 1.25
+#If true, boosted outputs ceil to the next whole item instead of keeping a fractional bonus chance.
+neptuniumKnifeCuttingBoardRoundUp = false
+#Item tags eligible for the Neptunium cutting board bonus.
+neptuniumKnifeCuttingBoardTagWhitelist = ["forge:raw_fishes", "forge:cooked_fishes", "c:foods/raw_fish", "c:foods/cooked_fish", "minecraft:fishes"]
+#Item ids eligible for the Neptunium cutting board bonus in addition to the tag whitelist.
+neptuniumKnifeCuttingBoardItemWhitelist = []
+#Item tags excluded from the Neptunium cutting board bonus.
+neptuniumKnifeCuttingBoardTagBlacklist = []
+#Item ids excluded from the Neptunium cutting board bonus.
+neptuniumKnifeCuttingBoardItemBlacklist = []
