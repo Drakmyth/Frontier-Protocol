@@ -19,6 +19,7 @@
 /local/
 
 # Logs, reports, downloads, and generated caches
+/command_history.txt
 /logs/
 /crash-reports/
 /downloads/
@@ -27,6 +28,7 @@
 /server-resource-packs/
 /kubejs/logs/
 /kubejs/exported/
+/kubejs/README.txt
 /kubejs/config/web_server.json
 /configureddefaults/README.md
 /config/jei/world/
