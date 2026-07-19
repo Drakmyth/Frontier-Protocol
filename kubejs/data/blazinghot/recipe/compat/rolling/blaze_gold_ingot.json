@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createaddition"
+    }
+  ],
+  "type": "createaddition:rolling",
+  "input": {
+    "tag": "blazinghot:blaze_gold_ingots"
+  },
+  "result": {
+    "item": "blazinghot:blaze_gold_rod",
+    "count": 2
+  }
+}
