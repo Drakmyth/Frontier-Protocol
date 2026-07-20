@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "F": {
+            "item": "minecraft:flint"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "FF",
+        "FS",
+        " S"
+    ],
+    "result": {
+        "count": 1,
+        "id": "frontierprotocol:flint_axe"
+    }
+}

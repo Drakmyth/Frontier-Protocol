@@ -1,0 +1,10 @@
+{
+    "configVersion": 1,
+    "overrides": [
+        {
+            "target": "frontierprotocol:flint_axe",
+            "type": "item",
+            "tier": "flint"
+        }
+    ]
+}
