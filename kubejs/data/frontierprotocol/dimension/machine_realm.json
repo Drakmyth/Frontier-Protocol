@@ -1,0 +1,11 @@
+{
+  "type": "frontierprotocol:machine_realm",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "frontierprotocol:machine_wastes"
+    },
+    "settings": "frontierprotocol:machine_realm"
+  }
+}
